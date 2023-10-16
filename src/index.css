@@ -30,10 +30,10 @@ body {
   min-height: 66vh;
   display: flex;
   flex-wrap: wrap;
-  justify-content: start;
+  justify-content: center;
   grid-template-columns: 12rem 44rem;
   column-gap: 4rem;
-  align-items: start;
+  align-items: center;
   gap: 8px;
 }
 
